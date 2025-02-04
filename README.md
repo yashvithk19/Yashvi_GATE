@@ -1,21 +1,21 @@
 # Yashvi_GATE
 
-Welcome to the **Yashvi_GATE** repository! This repository is designed to help you effectively prepare for the **GATE (Graduate Aptitude Test in Engineering) - CSE** exam. It includes comprehensive notes, previous year questions (PYQs), and useful preparation tips to boost your performance.
+Welcome to the **Yashvi_GATE** repository! This repository is made to help you prepare for the **GATE (Graduate Aptitude Test in Engineering) - CSE** exam. It includes comprehensive material, previous year questions (PYQs), and some useful preparation tips to boost your ultimate performance.
 
 ## 📌 Repository Structure
 
 ```
 📂 GATE-Preparation
-│── 📁 Notes/            # Subject-wise detailed notes
-│── 📁 PYQs/             # Previous Year Questions with solutions
-│── 📁 Preparation-Tips/ # Strategies, resources, and important tips
+│── 📁 Notes             # Subject-wise detailed notes
+│── 📁 PYQs              # Previous Year Questions with solutions
+│── 📁 Preparation-Tips  # Strategies, resources, and important tips
 │── 📜 README.md         # Overview of the repository
 ```
 
 ## 📚 Content Overview
 
 ### 1️⃣ Notes
-- Subject-wise detailed notes covering **core GATE CSE topics**
+- Subject-wise detailed material covering **core GATE CSE topics**
 - Concepts explained in a structured and easy-to-understand manner
 - Includes formulas, key points, and important definitions
 
@@ -34,7 +34,7 @@ Welcome to the **Yashvi_GATE** repository! This repository is designed to help y
 2. Solve **PYQs** to analyze the exam pattern and improve problem-solving skills.
 3. Follow the **Preparation Tips** to stay on track and optimize your study plan.
 
-## 🤝 Contributing
+## Contributing 🤝
 Feel free to contribute by adding **new notes, solving PYQs, or sharing preparation tips** to help others in their GATE journey.
 
 ## 📢 Stay Updated
@@ -42,4 +42,4 @@ Keep checking the repository for **new updates and additional resources** to enh
 
 ---
 
-All the Best to Aspiring GATE Students! 🚀
+All the Best to all the Aspiring GATE Students! 🚀
