@@ -42,4 +42,4 @@ Keep checking the repository for **new updates and additional resources** to enh
 
 ---
 
-All the Best to all the Aspiring GATE Students! 🚀
+All the Best to all the future GATE Aspirants! 🚀
